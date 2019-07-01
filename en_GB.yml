@@ -1,4 +1,4 @@
-lang_literal: 'en_US'
+lang_literal: 'en_GB'
 verified_message: 'This search was verified.'
 bomb_message: 'This message will self-destruct in A0B0 seconds...'
 try_again_info: 'If you detect problems with the service send a message to the official discord of **Hytale Fandom**.'
@@ -15,7 +15,7 @@ command_list_desc:  |
                     
                     **Bot developed by Hytale Hispano - 2019 - v3** 
 
-command_install_tooltip: '(Admin) Define the bot channel.'
+command_install_tooltip: '(Administrator) Define the bot channel.'
 command_invite_tooltip: 'Invite the bot to your Discord server.' 
 command_help_tooltip: 'Get the command list.'
 command_find_tooltip: 'Search in the wikia.'   
